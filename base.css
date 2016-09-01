@@ -1,0 +1,108 @@
+html, body {
+	height:100%;
+}
+
+#wrap{
+	width: 100%;
+	min-height: 100%;
+	height: auto !important
+	height:100%;
+	position: relative;
+}
+
+#main{
+	padding-bottom: 150px;
+}
+
+#footer{
+	height: 150px;
+	width : 100%;
+	position: absolute;
+	bottom: 0;
+	background-color:#1D95D3;
+}
+
+p, .main {
+	font-family:Meiryo, sans-serif;
+	font-weight:normal;
+	font-size:11pt;
+	line-height:1.6em;
+	text-align:justify;
+	text-justify:inter-ideograph;
+}
+
+.section {
+	font-family:"Yu Gothic", YuGothic, sans-serif;
+	font-weight:bold;
+	font-size:19pt;
+	line-height:1.3em;
+	color:#284bcc;
+}
+
+h2 {
+	font-family:"Yu Gothic", YuGothic, sans-serif;
+	font-weight:bold;
+	font-size:13pt;
+	line-height:1.3em;
+	color:#284bcc;
+	border-bottom: medium solid #284bcc;
+}
+
+.subsection {
+	font-family:"Yu Gothic", YuGothic, sans-serif;
+	font-weight:bold;
+	font-size:13pt;
+	line-height:1.3em;
+	color:#284bcc;
+	border-bottom: medium solid #284bcc;
+	padding-top:1em;
+}
+
+a.footer {
+	color:#ffffff;
+}
+
+.top_logo {
+	overflow: hidden;
+	margin: 0 auto;
+	background-color:#ffffff;
+}
+
+.logo {
+	height:   160px;
+	overflow: hidden;
+	margin:   0 auto;
+	background-color:#ffffff;
+}
+
+.nav_container {
+	background-color:#1D95D3;
+}
+
+.nav {
+	font-family:Meiryo, sans-serif;
+	font-size:10pt;
+	color:#ffffff;
+}
+
+.img_commnet_box {
+	padding-left:1em;
+	padding-right:1em;
+	padding-bottom:0.3em;
+	position: relative;
+	top: -250px;
+	width : auto;
+	
+	font-family:"Yu Gothic", YuGothic, sans-serif;
+	font-size:17pt;
+	font-weight:bold;
+	color:#284bcc;
+	text-align:left;
+	
+	background-color: rgba(255, 255, 255, 0.7);
+}
+
+.footer_border {
+	background-color:#e0e0e0;
+}
+
