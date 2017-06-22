@@ -30,6 +30,12 @@ header h1 {
   padding: 30px 0;
 }
 
+header img {
+  margin: 0;
+  padding: 30px;
+  max-width: 480px;
+}
+
 header ul {
   list-style-type: none;
   margin: 0;
